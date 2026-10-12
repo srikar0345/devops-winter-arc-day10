@@ -1,0 +1,11 @@
+# Go build output
+server
+*.exe
+
+# Environment and editor files
+.env
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
